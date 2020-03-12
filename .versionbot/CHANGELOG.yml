@@ -1,4 +1,14 @@
 - commits:
+    - subject: Deduplicate `balenaUrl` fetching in events
+      hash: 29adff8feacffb93e3db2550b7e2f05bc236e846
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 11.28.17
+  date: 2020-03-12T15:10:35.110Z
+- commits:
     - subject: Update CONTRIBUTING.md regarding ./bin/balena-dev and oclif commands
       hash: 385d3e107bf55c9dc3377d2758db5fcac1d89702
       body: ''
